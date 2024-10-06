@@ -1,6 +1,11 @@
 ## Hi there 👋
 
-<div align=center><p>Web developer</p></div>
+<h2 align=center>Web developer</h2>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Embox99" /></a> </p>
+
+
+
 
 - 🔭 I`m serving my country in IDF, CS student at the Open University of Israel and becoming Full Stack Web Developer through TripleTen Bootcamp.
 - 🌱 I`m currently learning React and Node.js
