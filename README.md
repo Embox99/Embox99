@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Embox99)](https://github.com/Embox99)
-
+<div align=center>Web developer</div>
 <!--
 **Embox99/Embox99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,7 +24,13 @@ Here are some ideas to get you started:
 
 
 #Connect with me:
-
+[![instagram](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)](https://www.instagram.com/edward_vilensky/)
 
 
 #Languages and Tools:
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Embox99)](https://github.com/Embox99)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Embox99&layout=compact)](https://github.com/Embox99)
