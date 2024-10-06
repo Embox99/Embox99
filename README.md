@@ -9,17 +9,13 @@
 - 👨‍💻 I`m currently working on https://github.com/Embox99/se_project_react
 
 
-#Connect with me:
-<p>
-<a href="https://www.linkedin.com/in/edward-vilensky-8051a62b3/">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" width="32" height="32" style="vertical-align: middle;">
-</a>
-  &nbsp;&nbsp;
-<a href="https://www.instagram.com/edward_vilensky/">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="32" height="32" style="vertical-align: middle;">
-</a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/edward-vilensky-8051a62b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a>
+<a href="https://www.instagram.com/edward_vilensky/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
-#Languages and Tools:
+
+<h3 align="left">Languages and Tools:</h3>
 
 
 
