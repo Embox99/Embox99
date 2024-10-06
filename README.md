@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<div align=center>Web developer</div>
+<div align=center><p>Web developer</p></div>
 
 - 🔭 I`m serving my country in IDF, CS student at the Open University of Israel and becoming Full Stack Web Developer through TripleTen Bootcamp.
 - 🌱 I`m currently learning React and Node.js
@@ -11,9 +11,13 @@
 
 #Connect with me:
 
+<a href="https://www.linkedin.com/in/edward-vilensky-8051a62b3/">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Instagram" width="32" height="32">
+</a>
 <a href="https://www.instagram.com/edward_vilensky/">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="32" height="32">
 </a>
+
 
 #Languages and Tools:
 
