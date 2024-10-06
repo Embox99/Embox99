@@ -10,8 +10,9 @@
 
 
 #Connect with me:
+
 <a href="https://www.instagram.com/edward_vilensky/">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="13" height="13">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="32" height="32">
 </a>
 
 #Languages and Tools:
