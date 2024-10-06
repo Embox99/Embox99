@@ -10,16 +10,15 @@
 
 
 #Connect with me:
-
+<p>
 <a href="https://www.linkedin.com/in/edward-vilensky-8051a62b3/">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Instagram" width="32" height="32">
 </a>
-
+  &nbsp;
 <a href="https://www.instagram.com/edward_vilensky/">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="32" height="32">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Linkedin" width="32" height="32">
 </a>
-
-
+</p>
 #Languages and Tools:
 
 
