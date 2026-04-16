@@ -1,16 +1,47 @@
-## Hi there 👋
+<h2 align=center>Web developer</h2>
 
-<!--
-**Embox99/Embox99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi there, I'm Eduard! 👋 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Full Stack Developer | 3+ Years of Experience
+
+I am a disciplined and results-oriented **Full Stack Developer** based in Israel. With over 3 years of hands-on experience.
+
+I specialize in building scalable, high-performance web applications using the **MERN/PERN** stack, with a strong emphasis on clean code and efficient architecture.
+
+---
+
+### 🛠 My Technical Toolbox
+
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | React, TypeScript, Redux Toolkit, React Query (TanStack), Tailwind CSS, SCSS |
+| **Backend** | Node.js, NestJS, Express, RESTful APIs, WebSockets |
+| **Databases** | PostgreSQL, MongoDB, Prisma ORM |
+| **DevOps & Tools** | Docker, Git, Jest, GitHub Actions, Swagger (OpenAPI), Vite |
+
+---
+
+### 🔭 Current Focus & Goals
+* 🏗️ Mastering **Scalable Microservices** with NestJS and RabbitMQ.
+* ☁️ Enhancing my skills in **Cloud Infrastructure** (AWS).
+* 📚 Constantly improving my **Technical English** for global collaboration.
+
+---
+
+### 👯 Collaboration & Outsourcing
+I am actively looking for **outsourcing opportunities** and collaborative projects. Whether you're building a startup from scratch or need to scale an existing system, I’m ready to contribute with high-quality code and reliable delivery.
+
+---
+
+### 💬 Let's Connect!
+* 📬 **Portfolio:** [Check out my work here](https://www.eduardvilensky.com/)
+* 📧 **Email:** [eduardvilesnki@gmail.com]
+* ⚡ Fun Fact: When I'm not coding, you'll find me hiking scenic trails, hitting the road on my bike, or chasing lap times in a sim racing rig. 
+
+---
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Embox99)](https://github.com/Embox99)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Embox99&layout=compact)](https://github.com/Embox99)
