@@ -42,6 +42,4 @@ I am actively looking for **outsourcing opportunities** and collaborative projec
 ---
 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Embox99&show_icons=true&count_private=true)](https://github.com/Embox99)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Embox99&layout=compact&count_private=true)](https://github.com/Embox99)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Embox99)](https://git.io/streak-stats)
