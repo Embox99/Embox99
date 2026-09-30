@@ -24,7 +24,7 @@
 
 ### 💬 Let's Connect!
 * 📬 **Portfolio:** [Check out my work here](https://www.eduardvilensky.com/)
-* 📧 **Email:** [eduardvilesnki@gmail.com]
+* 📧 **Email:** [eduard.vilesnki.dev@gmail.com]
 * ⚡ Fun Fact: When I'm not coding, you'll find me hiking scenic trails, hitting the road on my bike, or playing WOW.
 
 ---
