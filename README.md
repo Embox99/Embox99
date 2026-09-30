@@ -1,13 +1,6 @@
 <h2 align=center>Web developer</h2>
 
-
-# Hi there, I'm Eduard! 👋 
-
-### 🚀 Full Stack Developer | 3+ Years of Experience
-
-I am a disciplined and results-oriented **Full Stack Developer** based in Israel. With over 3 years of hands-on experience.
-
-I specialize in building scalable, high-performance web applications using the **MERN/PERN** stack, with a strong emphasis on clean code and efficient architecture.
+### 🚀 Full Stack Dev
 
 ---
 
@@ -25,7 +18,7 @@ I specialize in building scalable, high-performance web applications using the *
 ### 🔭 Current Focus & Goals
 * 🏗️ Mastering **Scalable Microservices** with NestJS and RabbitMQ.
 * ☁️ Enhancing my skills in **Cloud Infrastructure** (AWS).
-* 📚 Constantly improving my **Technical English** for global collaboration.
+* 📚 Working on my 3rd AWS Certification.
 
 ---
 
