@@ -22,15 +22,10 @@
 
 ---
 
-### 👯 Collaboration & Outsourcing
-I am actively looking for **outsourcing opportunities** and collaborative projects. Whether you're building a startup from scratch or need to scale an existing system, I’m ready to contribute with high-quality code and reliable delivery.
-
----
-
 ### 💬 Let's Connect!
 * 📬 **Portfolio:** [Check out my work here](https://www.eduardvilensky.com/)
 * 📧 **Email:** [eduardvilesnki@gmail.com]
-* ⚡ Fun Fact: When I'm not coding, you'll find me hiking scenic trails, hitting the road on my bike, or chasing lap times in a sim racing rig. 
+* ⚡ Fun Fact: When I'm not coding, you'll find me hiking scenic trails, hitting the road on my bike, or playing WOW.
 
 ---
 
